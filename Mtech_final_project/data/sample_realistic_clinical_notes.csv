@@ -1,0 +1,11 @@
+note_id,patient_id,note_text
+1,P001,Patient reports chest pain and shortness of breath.
+2,P002,
+3,P003,
+4,P004,*** REDACTED ***
+5,P005,"Discharge summary: stable vitals, patient recovering. Recommendation: follow-up in 2 weeks."
+6,P006,Stable.
+7,P007,"Complains of fatigue, nausea, dizziness, and headache after medication. History of diabetes."
+8,P008,"Hypertension, type 2 diabetes, osteoarthritis, insomnia. No recent illness reported."
+9,P009,Patient is stable. Continue medication.
+10,P0010,"Patient shows extreme symptoms including vomiting, continuous high fever, tremors, severe pain in chest, irregular breathing patterns, sweating, loss of appetite, chronic fatigue, blurry vision, light-headedness, and insomnia lasting for more than 10 days with irregular pulse rate and reduced oxygen saturation at rest. Immediate attention required. Further follow-up needed to evaluate possibility of sepsis or underlying cardiac condition."

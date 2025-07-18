@@ -1,0 +1,9 @@
+clinical_note,extracted_symptoms,predicted_diseases
+"Patient reports persistent cough, wheezing, and shortness of breath. Symptoms worsen during exercise.","persistent cough, wheezing, shortness of breath","Asthma, Chronic Bronchitis"
+"Individual complains of severe headache, sensitivity to light, and nausea. Symptoms began suddenly.","severe headache, sensitivity to light, nausea","Migraine, Meningitis"
+"The patient experiences frequent urination, excessive thirst, and unexplained weight loss.","frequent urination, excessive thirst, unexplained weight loss","Diabetes Mellitus, Hyperthyroidism"
+"Complaints include chest pain radiating to the left arm, shortness of breath, and sweating.","chest pain, radiating pain to left arm, shortness of breath, sweating","Myocardial Infarction (Heart Attack), Angina"
+"Patient reports sore throat, fever, swollen lymph nodes, and fatigue.","sore throat, fever, swollen lymph nodes, fatigue","Infectious Mononucleosis, Streptococcal Pharyngitis"
+"Complains of abdominal pain, bloating, and irregular bowel movements alternating between diarrhea and constipation.","abdominal pain, bloating, irregular bowel movements, diarrhea, constipation","Irritable Bowel Syndrome (IBS), Gastroenteritis"
+"Patient has dry cough, loss of taste and smell, low-grade fever, and fatigue.","dry cough, loss of taste, loss of smell, low-grade fever, fatigue","COVID-19, Influenza"
+"Experiencing joint pain, stiffness in the morning, and swelling in hands and feet.","joint pain, morning stiffness, swelling in hands and feet","Rheumatoid Arthritis, Lupus"
