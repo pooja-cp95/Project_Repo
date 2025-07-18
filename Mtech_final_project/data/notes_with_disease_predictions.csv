@@ -1,0 +1,8 @@
+note_id,note_text,cleaned_text,note_length,extracted_symptoms,ner_visualization,predicted_diseases
+1,Patient reports chest pain and shortness of breath during physical activity,patient reports chest pain shortness breath physical activity,11,"['chest pain', 'shortness of breath']",,"['angina', 'COPD', 'pneumonia', 'anxiety', 'heart attack', 'asthma']"
+2,Complaints of fatigue nausea and headache after taking new medication,complaints fatigue nausea headache taking new medication,10,"['headache', 'nausea', 'fatigue']",,"['depression', 'food poisoning', 'migraine', 'hypertension', 'pregnancy', 'anemia', 'tension headache', 'hypothyroidism']"
+3,Headache and dizziness experienced for the last 3 days,headache dizziness experienced last 3 days,9,"['headache', 'dizziness']",,"['migraine', 'hypertension', 'vertigo', 'low blood pressure', 'anemia', 'tension headache']"
+4,Severe nausea and vomiting noted might be food poisoning,severe nausea vomiting noted might food poisoning,9,"['vomiting', 'nausea']",,"['food poisoning', 'migraine', 'pregnancy']"
+5,Patient stable no symptoms currently,patient stable symptoms currently,5,[],,[]
+6,Reports fatigue lack of appetite and weakness,reports fatigue lack appetite weakness,7,"['lack of appetite', 'fatigue', 'weakness']",,"['cancer', 'depression', 'stroke', 'anemia', 'infection', 'multiple sclerosis', 'hypothyroidism']"
+7,Chest pain worsens while climbing stairs shortness of breath noted,chest pain worsens climbing stairs shortness breath noted,10,"['chest pain', 'shortness of breath']",,"['angina', 'COPD', 'pneumonia', 'anxiety', 'heart attack', 'asthma']"

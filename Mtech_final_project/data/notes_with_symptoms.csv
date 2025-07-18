@@ -1,0 +1,8 @@
+note_id,note_text,cleaned_text,note_length,extracted_symptoms,ner_visualization
+1,Patient reports chest pain and shortness of breath during physical activity,patient reports chest pain shortness breath physical activity,11,"['chest pain', 'shortness of breath']",
+2,Complaints of fatigue nausea and headache after taking new medication,complaints fatigue nausea headache taking new medication,10,"['headache', 'nausea', 'fatigue']",
+3,Headache and dizziness experienced for the last 3 days,headache dizziness experienced last 3 days,9,"['headache', 'dizziness']",
+4,Severe nausea and vomiting noted might be food poisoning,severe nausea vomiting noted might food poisoning,9,"['vomiting', 'nausea']",
+5,Patient stable no symptoms currently,patient stable symptoms currently,5,[],
+6,Reports fatigue lack of appetite and weakness,reports fatigue lack appetite weakness,7,"['lack of appetite', 'fatigue', 'weakness']",
+7,Chest pain worsens while climbing stairs shortness of breath noted,chest pain worsens climbing stairs shortness breath noted,10,"['chest pain', 'shortness of breath']",
